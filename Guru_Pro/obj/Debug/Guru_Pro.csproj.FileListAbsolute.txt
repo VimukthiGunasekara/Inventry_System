@@ -1,0 +1,106 @@
+c:\users\vimukthi gunasekara\documents\visual studio 2013\Projects\Guru_Pro\Guru_Pro\bin\Debug\Guru_Pro.exe.config
+C:\Users\Vimukthi Gunasekara\documents\visual studio 2013\Projects\Guru_Pro\Guru_Pro\bin\Debug\Guru_Pro.exe
+C:\Users\Vimukthi Gunasekara\documents\visual studio 2013\Projects\Guru_Pro\Guru_Pro\bin\Debug\Guru_Pro.pdb
+C:\Users\Vimukthi Gunasekara\documents\visual studio 2013\Projects\Guru_Pro\Guru_Pro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Vimukthi Gunasekara\documents\visual studio 2013\Projects\Guru_Pro\Guru_Pro\bin\Debug\MetroFramework.dll
+C:\Users\Vimukthi Gunasekara\documents\visual studio 2013\Projects\Guru_Pro\Guru_Pro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Vimukthi Gunasekara\documents\visual studio 2013\Projects\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.csprojResolveAssemblyReference.cache
+C:\Users\Vimukthi Gunasekara\documents\visual studio 2013\Projects\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Home.resources
+C:\Users\Vimukthi Gunasekara\documents\visual studio 2013\Projects\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Properties.Resources.resources
+C:\Users\Vimukthi Gunasekara\documents\visual studio 2013\Projects\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.csproj.GenerateResource.Cache
+C:\Users\Vimukthi Gunasekara\documents\visual studio 2013\Projects\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.exe
+C:\Users\Vimukthi Gunasekara\documents\visual studio 2013\Projects\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.pdb
+C:\Users\Vimukthi Gunasekara\documents\visual studio 2013\Projects\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.StockDamage.resources
+C:\Users\Vimukthi Gunasekara\documents\visual studio 2013\Projects\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Stock.resources
+C:\Users\Vimukthi Gunasekara\documents\visual studio 2013\Projects\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.StockView.resources
+C:\Users\Vimukthi Gunasekara\documents\visual studio 2013\Projects\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Loging.resources
+C:\Users\Vimukthi Gunasekara\documents\visual studio 2013\Projects\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Sing_Up.resources
+C:\Users\Vimukthi Gunasekara\Documents\Visual Studio 2013\Projects\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Item.resources
+C:\Users\Vimukthi Gunasekara\Documents\Visual Studio 2013\Projects\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.ItemDamage.resources
+C:\Users\Vimukthi Gunasekara\Documents\Visual Studio 2013\Projects\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Item_Registation.resources
+C:\Users\Vimukthi Gunasekara\Documents\Visual Studio 2013\Projects\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.ItemView.resources
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\bin\Debug\Guru_Pro.exe.config
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.exe
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.pdb
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\bin\Debug\Guru_Pro.exe
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\bin\Debug\Guru_Pro.pdb
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\bin\Debug\MetroFramework.dll
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.csprojResolveAssemblyReference.cache
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Home.resources
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Item.resources
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.ItemDamage.resources
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Item_Registation.resources
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.ItemView.resources
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Loging.resources
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Properties.Resources.resources
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Sing_Up.resources
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Stock.resources
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.StockDamage.resources
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.StockView.resources
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.csproj.GenerateResource.Cache
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\bin\Debug\Database1.mdf
+C:\Users\Vimukthi Gunasekara\Desktop\New folder\Guru_Pro\Guru_Pro\bin\Debug\Database1_log.ldf
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\bin\Debug\Guru_Pro.exe.config
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.exe
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.csprojResolveAssemblyReference.cache
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Home.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Item.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.ItemDamage.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Item_Registation.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.ItemView.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Loging.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Properties.Resources.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Sing_Up.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Stock.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.StockDamage.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.StockView.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.csproj.GenerateResource.Cache
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\bin\Debug\Guru_Pro.exe
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\bin\Debug\Guru_Pro.pdb
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\bin\Debug\MetroFramework.dll
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.pdb
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\bin\Debug\Database1.mdf
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\bin\Debug\Database1_log.ldf
+C:\Users\Vimukthi Gunasekara\Desktop\Guru Project\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Loading.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru_Pro\Guru_Pro\bin\Debug\Guru_Pro.exe.config
+C:\Users\Vimukthi Gunasekara\Desktop\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.exe
+C:\Users\Vimukthi Gunasekara\Desktop\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.pdb
+C:\Users\Vimukthi Gunasekara\Desktop\Guru_Pro\Guru_Pro\bin\Debug\Database1.mdf
+C:\Users\Vimukthi Gunasekara\Desktop\Guru_Pro\Guru_Pro\bin\Debug\Database1_log.ldf
+C:\Users\Vimukthi Gunasekara\Desktop\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.csprojResolveAssemblyReference.cache
+C:\Users\Vimukthi Gunasekara\Desktop\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Home.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Item.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.ItemDamage.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Item_Registation.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.ItemView.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Loading.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Loging.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Properties.Resources.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Sing_Up.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Stock.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.StockDamage.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.StockView.resources
+C:\Users\Vimukthi Gunasekara\Desktop\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.csproj.GenerateResource.Cache
+E:\Guru Aiya Project\Guru_Pro\Guru_Pro\Guru_Pro\bin\Debug\Guru_Pro.exe.config
+E:\Guru Aiya Project\Guru_Pro\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.exe
+E:\Guru Aiya Project\Guru_Pro\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.pdb
+E:\Guru Aiya Project\Guru_Pro\Guru_Pro\Guru_Pro\bin\Debug\Database1.mdf
+E:\Guru Aiya Project\Guru_Pro\Guru_Pro\Guru_Pro\bin\Debug\Database1_log.ldf
+E:\Guru Aiya Project\Guru_Pro\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.csprojResolveAssemblyReference.cache
+E:\Guru Aiya Project\Guru_Pro\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Home.resources
+E:\Guru Aiya Project\Guru_Pro\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Item.resources
+E:\Guru Aiya Project\Guru_Pro\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.ItemDamage.resources
+E:\Guru Aiya Project\Guru_Pro\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Item_Registation.resources
+E:\Guru Aiya Project\Guru_Pro\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.ItemView.resources
+E:\Guru Aiya Project\Guru_Pro\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Loading.resources
+E:\Guru Aiya Project\Guru_Pro\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Loging.resources
+E:\Guru Aiya Project\Guru_Pro\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Properties.Resources.resources
+E:\Guru Aiya Project\Guru_Pro\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Sing_Up.resources
+E:\Guru Aiya Project\Guru_Pro\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.Stock.resources
+E:\Guru Aiya Project\Guru_Pro\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.StockDamage.resources
+E:\Guru Aiya Project\Guru_Pro\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.StockView.resources
+E:\Guru Aiya Project\Guru_Pro\Guru_Pro\Guru_Pro\obj\Debug\Guru_Pro.csproj.GenerateResource.Cache
